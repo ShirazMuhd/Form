@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-position: center;
+}
+.inp{
+
+}
+
+section{
+    background-color: rgb(34, 34, 34);
+    width:20rem;
+    margin: auto;
+    padding: 70px 0;
+    display: flex;
+}
+.sub{
+    border: none;
+    width: 16rem;
+}
+.nav-item{
+    text-align: center;
+}
+.text-agree{
+    font-size: 8px;
+}
+.align-item-left{
+    text-align: left;
+}
